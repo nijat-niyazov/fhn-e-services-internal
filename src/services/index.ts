@@ -1,6 +1,4 @@
-// import { baseURL } from '@/utils/constants/api'
-
-const baseURL = 'https://fex-dev.fhn.gov.az/api'
+import { baseURL } from '@/utils/constants/api'
 
 type Params = Record<string, string>
 
